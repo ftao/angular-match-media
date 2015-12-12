@@ -1,0 +1,22 @@
+{
+  "name": "angular-media-queries",
+  "version": "0.4.1",
+  "description": "Angular service to test if a given @media statment is true.",
+  "main": "match-media.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftao/angular-match-media.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "matchmedia",
+    "@media",
+    "css"
+  ],
+  "author": "Jack <jack@ofspades.com>",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License"
+}
